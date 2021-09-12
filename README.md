@@ -1,1 +1,1 @@
-# chapter-2-Incremental-Game
+# Chapter-2-Incremental-Game
